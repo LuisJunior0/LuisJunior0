@@ -48,33 +48,6 @@
 
 ---
 
-## 🎯 Projetos em Destaque
-
-### ⚽ API Álbum de Figurinhas da Copa
-
-- API REST desenvolvida com FastAPI e PostgreSQL
-- Autenticação e autorização utilizando JWT
-- Migrações de banco de dados com Alembic
-- Endpoints assíncronos
-- Criptografia de senhas e boas práticas de segurança
-- Aplicação publicada e em funcionamento
-
-**Stack:** FastAPI • PostgreSQL • JWT • Alembic • Docker
-
----
-
-### 💼 CRM Empresarial
-
-- Sistema CRM desenvolvido com Django e MySQL
-- Cadastro automatizado através de consulta de CNPJ
-- Integração com APIs externas
-- Validações e regras de negócio
-- Gerenciamento completo de registros empresariais
-
-**Stack:** Django • MySQL • APIs Externas
-
----
-
 ## 📊 Estatísticas & Atividade
 
 <div align="center">
@@ -83,7 +56,6 @@
 
 <img height="180em" src="https://streak-stats.demolab.com?user=LuisJunior0&theme=tokyonight&hide_border=true"/>
 
-### 🐍 Contribuições
 
 <img src="https://raw.githubusercontent.com/LuisJunior0/LuisJunior0/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
@@ -93,6 +65,3 @@
 
 <div align="center">
 
-💡 <i>"Transformando ideias em aplicações reais através de código, aprendizado contínuo e boas práticas de desenvolvimento."</i>
-
-</div>

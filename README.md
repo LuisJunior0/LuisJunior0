@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  🎓 Graduando em Análise e Desenvolvimento de Sistemas.
+  🎓 Graduado em Análise e Desenvolvimento de Sistemas.
 </p>
 
 <div align="center">

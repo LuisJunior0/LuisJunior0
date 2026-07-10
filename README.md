@@ -1,15 +1,15 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&random=false&width=700&lines=%E2%8A%B9+Ol%C3%A1%2C+eu+sou+o+Luis+Junior+%F0%9F%91%8B+%E2%8A%B9;%F0%9F%92%BB+Desenvolvedor+Backend+Python;%F0%9F%9A%80+FastAPI+%7C+Django+%7C+PostgreSQL;%F0%9F%93%9A+Sempre+aprendendo+algo+novo" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&random=false&width=700&lines=%E2%8A%B9+Ol%C3%A1%2C+eu+sou+o+Luis+Junior+%F0%9F%91%8B+%E2%8A%B9;%F0%9F%92%BB+Desenvolvedor+Backend+Python;%F0%9F%9A%80+FastAPI+%7C+Django+%7C+AWS+%7C+Docker;%F0%9F%93%9A+Sempre+aprendendo+algo+novo" alt="Typing SVG">
   </a>
 </div>
 
 <p align="center">
-  💻 <b>Desenvolvedor Backend em formação</b>, apaixonado por tecnologia, APIs e automação.
+  💻 <b>Desenvolvedor Backend em formação</b>, apaixonado por tecnologia, APIs e soluções em nuvem.
 </p>
 
 <p align="center">
-  🚀 Atualmente desenvolvendo projetos robustos com <b>FastAPI</b> e <b>Django</b>, focando em boas práticas, arquitetura de software e bancos de dados.
+  🚀 Atualmente desenvolvendo projetos robustos com <b>FastAPI</b> e <b>Django</b>, focando em boas práticas, arquitetura de software, infraestrutura moderna e bancos de dados.
 </p>
 
 <p align="center">
@@ -41,8 +41,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🚀 Infraestrutura & Ferramentas
+### 🚀 Infraestrutura & Nuvem
 
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -64,4 +67,3 @@
 ---
 
 <div align="center">
-

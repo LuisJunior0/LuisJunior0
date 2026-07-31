@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Luis Junior 👋</h1>
 
 <h3 align="center">
-Backend Developer • Python • FastAPI • AWS • Docker
+RPA & Backend Developer • Python • FastAPI • AWS • Docker
 </h3>
 
 <p align="center">
